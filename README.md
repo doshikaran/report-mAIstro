@@ -67,6 +67,3 @@ $ cd ntbk
 $ jupyter notebook report_maistro.ipynb
 ```
 
-## Deploying 
-
-LangGraph Platform allows various [deployment options](https://langchain-ai.github.io/langgraph/concepts/#deployment-options). 
